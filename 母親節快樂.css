@@ -1,0 +1,156 @@
+html, body {
+  overflow: hidden;
+}
+
+.a1{
+	text-align:center;
+	padding-top:65px;
+	font-size:30px;
+}
+.a{
+	text-align:center;
+	padding-top:65px;
+	font-size:30px;
+}
+.b{
+	text-align:center;
+	padding-top:65px;
+	font-size:30px;
+}
+.bbb{
+	text-align:center;
+	margin-left:200px;
+	padding-top:65px;
+	padding-bottom:65px;
+}
+.c{
+	text-align:center;
+	padding-top:65px;
+	font-size:30px;
+}
+.d{
+	text-align:center;
+	padding-top:65px;
+	font-size:30px;
+}
+.e{
+	text-align:center;
+	padding-top:65px;
+	font-size:30px;
+}
+.f{
+	text-align:center;
+	padding-top:45px;
+	font-size:25px;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.post-body {
+font-family: 'Noto Serif TC', '微軟正黑體', 'Microsoft JhengHei', sans-serif;
+}
+.aaa{
+text-align:center;
+margin:0 auto;
+font-size:50px;
+padding-top:20px;
+}
+.s{
+text-align:center;
+margin:0 auto;
+background-color:white;
+margin-top:30px;
+}
+.ss{
+text-align:left;
+margin:0 auto;
+background-color:white;
+margin-top:15px;
+margin-left:135px;
+margin-right:135px;
+margin-bottom:20px;
+}
+
+.box1{
+width:450px;
+height:450px;
+background:white;
+font-size:30px;
+color:black;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left:12%;
+margin-right:auto;
+float: left;
+}
+.box2{
+width:450px;
+height:450px;
+background:white;
+font-size:30px;
+color:black;
+display: flex;
+justify-content: center;
+align-items: center; 
+margin-right:12%;
+margin-top:5%;
+margin-left:auto;
+}
+.box3{
+width:150px;
+height:75px;
+background:white;
+font-size:30px;
+color:black;
+display: flex;
+justify-content: center;
+align-items: center; 
+margin-right:12%;
+margin-left:auto;
+margin-bottom:5%;
+}
+.box4{
+width:150px;
+height:75px;
+background:white;
+font-size:30px;
+color:black;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left:12%;
+margin-right:auto;
+float: left;
+}
+.box5{
+width:250px;
+height:75px;
+background:white;
+font-size:30px;
+color:black;
+display: flex;
+justify-content: center;
+align-items: center; 
+margin-right:12%;
+margin-left:auto;
+margin-bottom:5%;
+}
+.box6{
+width:250px;
+height:75px;
+background:white;
+font-size:30px;
+color:black;
+display: flex;
+justify-content: center;
+align-items: center; 
+margin-right:50%;
+margin-left:40%;
+margin-bottom:5%;
+}
